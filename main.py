@@ -683,7 +683,7 @@ async def on_ready():
 
 # Main entry point
 def main():
-    client.run(token=TOKEN)
+    client.run(TOKEN)
 
 if __name__ == '__main__':
     main()
